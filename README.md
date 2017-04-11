@@ -53,10 +53,10 @@ We are planning to take reference from a Distributed System project. That projec
 1\. Successfully install a power efficient Parallel Distributed Key Value store.
 We are planning to create a cluster of power efficient Raspberry PIs, this will help us to benchmark the power usage of bulky andrew machines and power efficient PIs. This will also help us to benchmark the throughput between distributed Key Value store and Key Value store on single machine
 <br>
+
 2\. Performance Benchmarking
 Our goal is to implement this design in both C and Go and compare the difference in performance for both these approaches. Also we want to deploy both these implementations and compare their performance as well. 
 <br>
-
 
 3\. Optimized Solution
 We also want thoroughly optimize the solution and come up with a good design. This wood require a thorough creation of a test base that would evaluate the designs in a variety of ways. With this test base we hope to find parts of design that would require optimization and expect to re-implement this optimization elegantly. 
