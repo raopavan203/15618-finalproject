@@ -89,10 +89,12 @@
   the design part as from the assignments we understand that it is better to
   start with a simple straightforward implementation initially. 
 
+### Goal and Deliverable Update
 - We are on track with respect to the goals and deliverables stated in our
   proposal. We still believe that we will be able to achieve all the things that
   we have mentioned in our goals. 
 
+### Plan for the competition 
 - We are planning to show performance analysis of our algorithm using graphs.
   Graphs will basically analyse performance of our algorithm wrt baseline
   implementations.

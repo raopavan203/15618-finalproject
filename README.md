@@ -89,5 +89,3 @@ sequential & parallel algorithms.
 <br>
 - May 2-9: Optimize the initial implementation and perform analysis. 
 <br>
-
----
