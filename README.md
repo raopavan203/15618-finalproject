@@ -81,11 +81,9 @@ sequential & parallel algorithms.
 
 ## SCHEDULE
 
-- April 11-17: Thoroughly go through the reference paper and understand the
-  algorithm. 
+- April 11-17: Thoroughly go through the reference paper and understand the algorithm. 
 <br>
-- April 18-24: Come up with a draft design of the implementation and gather
-  libraries and test cases for benchmarking.  
+- April 18-24: Come up with a draft design of the implementation and gather libraries and test cases for benchmarking.  
 <br>
 - April 25-May 1: Implement the first version and prepare for final exam 
 <br>
