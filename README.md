@@ -95,9 +95,9 @@ sequential & parallel algorithms.
 ---
 ---
 
-##CHECKPOINT REPORT
+## CHECKPOINT REPORT
 
-###As per schedule
+### As per schedule
 
 - April 11-13: Revisited our original proposal and after discussion with Prof.
   Kayvon, we pivoted from our original idea. After lot of brainstorming, we came
@@ -110,7 +110,7 @@ sequential & parallel algorithms.
   libraries and test cases for benchmarking
 <br>
 
-###Pending
+### Pending
 
 - April 25-May 1: Implement the first version and prepare for final exam
 <br>
@@ -119,7 +119,7 @@ sequential & parallel algorithms.
 
 ---
 
-###Progress So far
+### Progress So far
 - After changing our initial project proposal, things went as planned. Till now
   we have gathered all the benchmarking test cases (graphs). That is:
 
