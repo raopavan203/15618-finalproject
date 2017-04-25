@@ -1,6 +1,6 @@
-##CHECKPOINT REPORT
+## CHECKPOINT REPORT
 
-###As per schedule
+### As per schedule
 
 - April 11-13: Revisited our original proposal and after discussion with Prof.
   Kayvon, we pivoted from our original idea. After lot of brainstorming, we came
@@ -13,7 +13,7 @@
   libraries and test cases for benchmarking
 <br>
 
-###Pending
+### Pending
 
 - April 25-May 1: Implement the first version and prepare for final exam
 <br>
@@ -22,7 +22,7 @@
 
 ---
 
-###Progress So far
+### Progress So far
 - After changing our initial project proposal, things went as planned. Till now
   we have gathered all the benchmarking test cases (graphs). That is:
 
@@ -57,6 +57,60 @@
   -------------------------------------------------------------------
   <br>
 
+<table>
+<thead>
+<tr>
+<th align = "right"> Dataset Names </th>
+<th> #nodes </th>
+<th> #edges </th>
+<th> #triangles </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> cit-Patents </td>
+<td> 3,774,7683 </td>
+<td> 3,037,896  </td>
+<td> 7,515,023  </td>
+</tr>
+
+<tr>
+<td> coAuthorsCiteseer </td>
+<td> 227,320 </td>
+<td> 1,628,268 </td>
+<td> 8,100,000 </td>
+</tr>
+
+<tr>
+<td> coPapersDBLP </td>
+<td> 540,486 </td>
+<td> 30,491,458 </td>
+<td> 1,300,000,000 </td>
+</tr>
+
+<tr>
+<td> road central </td>
+<td> 14,081,816 </td>
+<td> 33,866,826 </td>
+<td> 687,000 </td>
+</tr>
+
+<tr>
+<td> soc-LiveJournal1 </td>
+<td> 4,847,571 </td>
+<td> 137,987,546 </td>
+<td> 285,730,264 </td>
+</tr>
+
+<tr>
+<td> com-Orkut </td>
+<td> 3,072,441 </td>
+<td> 234,370,166 </td>
+<td> 627,584,181 </td>
+</tr>
+
+</tbody>
+</table>
 
 - Further, we have spent a lot of time on understanding the k-truss approach of
   the subgraph technique mentioned in the paper. We have made a rough design on
